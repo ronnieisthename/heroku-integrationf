@@ -1,15 +1,15 @@
 /* SETTINGS START */
 const prefix = ">"
 const groupID = 3780955;
-const bot_token = process.env.BotToken;
+const bot_token = process.env.botToken;
 const rblxCookie = process.env.rblxCookie;
-const officerRole = "Officer";
-const welcomeMessage = "Hi there, Welcome to our official Outerhaven Roblox Branch!";
+const officerRoleE = "Officer";
+const welcomeMessage = "Welcome!";
 const maxXP = 100;
 const xpAuditLogChannelID = "636098334234509312";
 const mainChatChannelID = "627029711771402260";
 const fireBaseURL = process.env.fireBaseURL;
-const xpName = "Prestige";
+const xpName = "prestige";
 /* SETTINGS END */
 
 /* PACKAGES START */
